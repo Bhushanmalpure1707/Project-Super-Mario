@@ -61,6 +61,29 @@ Once LoadBalancer is created, open:
 http://<AWS-LoadBalancer-DNS>
 
 ---
+---
+
+## 📸 Deployment Screenshots
+
+### 🎮 Super Mario Application Running
+![Mario Output](screenshots/mario.png)
+
+---
+
+### ☸️ Amazon EKS Cluster
+![EKS Cluster](screenshots/eks.png)
+
+---
+
+### 🖥 EC2 Instance
+![EC2 Instance](screenshots/ec2.png)
+
+---
+
+### 🪣 S3 Backend (Terraform State)
+![S3 Bucket](screenshots/s3.png)
+
+
 
 ## 👨‍💻 Author
 
