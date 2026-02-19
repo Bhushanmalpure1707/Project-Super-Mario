@@ -66,22 +66,22 @@ http://<AWS-LoadBalancer-DNS>
 ## 📸 Deployment Screenshots
 
 ### 🎮 Super Mario Application Running
-![Mario Output](mario.png)
+![Mario Output](mario.png.png)
 
 ---
 
 ### ☸️ Amazon EKS Cluster
-![EKS Cluster](eks.png)
+![EKS Cluster](eks.png.png)
 
 ---
 
 ### 🖥 EC2 Instance
-![EC2 Instance](ec2.png)
+![EC2 Instance](ec2.png.png)
 
 ---
 
 ### 🪣 S3 Backend (Terraform State)
-![S3 Bucket](s3.png)
+![S3 Bucket](s3.png.png)
 
 
 
