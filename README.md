@@ -71,12 +71,12 @@ http://<AWS-LoadBalancer-DNS>
 ---
 
 ### ☸️ Amazon EKS Cluster
-![EKS Cluster](eks.png.png)
+![EKS Cluster](Eks.png.png)
 
 ---
 
 ### 🖥 EC2 Instance
-![EC2 Instance](ec2.png.png)
+![EC2 Instance](Ec2.png.png)
 
 ---
 
