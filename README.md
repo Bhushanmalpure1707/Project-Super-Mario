@@ -57,8 +57,9 @@ kubectl get svc
 ## 🌐 Access Application
 
 Once LoadBalancer is created, open:
+http://<LOAD_BALANCER_DNS>
 
-http://<AWS-LoadBalancer-DNS>
+
 
 ---
 ---
